@@ -19,7 +19,7 @@ def show(event):
 
 
 def Writediscuss(strdiscuss):
-    f = open("./score.txt", 'a', encoding='utf8')
+    f = open("./result/score.txt", 'a', encoding='utf8')
     f.write(strdiscuss)
     f.close()
 
