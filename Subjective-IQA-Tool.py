@@ -8,7 +8,7 @@ PngList = os.listdir(FilePath)
 
 
 def show(event):
-    s = 'Value of the slider' + str(var.get())
+    s = 'Value of the slider: ' + str(var.get())
     lb.config(text=s)
     enTextJumNum.delete(0.0, tk.END)
     enTextJumNum.insert(tk.INSERT, str(nIndex))
