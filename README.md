@@ -48,7 +48,10 @@ image_path:score
 ## Citation
 **If you use this tool in your research, please cite**:
 ```
-@inproceedings{
-  
+@article{chen2023band,
+  title={BAND-2k: Banding Artifact Noticeable Database for Banding Detection and Quality Assessment},
+  author={Chen, Zijian and Sun, Wei and Jia, Jun and Lu, Fangfang and Zhang, Zicheng and Liu, Jing and Huang, Ru and Min, Xiongkuo and Zhai, Guangtao},
+  journal={arXiv preprint arXiv:2311.17752},
+  year={2023}
 }
 ```
